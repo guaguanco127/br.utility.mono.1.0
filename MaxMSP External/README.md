@@ -21,8 +21,7 @@ These files were created with Max/MSP version 8.5.6.
 
 ## <a name="About"></a>About
 
-This is a basic external for Max/MSP that allows the user to adjust a the volume of a stereo signal. The decibel range is from -72 dB to +35 dB.
--72 dB is converted to negative infinity dB.
+This is a basic external for Max/MSP that allows the user to sum a stereo signal into Mono with 3 different mix settings.  
 Currently works in any sample rate or bit depth.  
 
 The two versions present in this folder are for either Macintosh or Windows. 

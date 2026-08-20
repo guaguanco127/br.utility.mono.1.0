@@ -5,7 +5,7 @@ By Brian Riordan
 [brianriordanmusic@gmail.com](mailto:brianriordanmusic@gmail.com)  
 [https://www.brianriordanmusic.com/](https://www.brianriordanmusic.com/) 
   
-Repository for br.utility.monoboass.1.0, with all related files, can be found here: [https://github.com/guaguanco127/br.utility.mono.1.0](https://github.com/guaguanco127/br.utility.mono.1.0)  
+Repository for br.utility.mono.1.0, with all related files, can be found here: [https://github.com/guaguanco127/br.utility.mono.1.0](https://github.com/guaguanco127/br.utility.mono.1.0)  
 Additional programs can be found here: [https://github.com/guaguanco127/plugins](https://github.com/guaguanco127/plugins)
 
 These files were created with Max/MSP version 8.5.6.

@@ -29,11 +29,7 @@ br.utility.mono.rnbo.ext.1.0 is a patch set up to export as a Max/MSP external.
 
 br.utility.mono.rnbo.vst.1.0.maxpat is a patch set up to export as a VST or AU audio plugin.  
 
-Either program allows the user to adjust a the volume of a stereo signal. The decibel range is from -72 dB to +35 dB.
--72 dB is converted to negative infinity dB.
-Currently works in any sample rate or bit depth.  
-
-This allows the user to sum a stereo signal into Mono with 3 different mix settings. 
+This allows the user to sum a stereo signal into Mono with 3 different mix settings. Currently works in any sample rate or bit depth.  
 
 You can use as a Max for Live device within Ableton Live Suite, or as an abstration or external object within Max/MSP. You can also build your own VST or AU audio plugin to use with a DAW. 
 
